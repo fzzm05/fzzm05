@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farooque Azam</h1>
+<h1 align="center">hello there! i'm farooque</h1>
 <h3 align="center">a full stack web developer, with a knack for building the most stable and robust backends</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fzzm05&label=Profile%20views&color=0e75b6&style=flat" alt="fzzm05" /> </p>
