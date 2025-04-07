@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **TestOverseas**, an AI powered test preparation platform.
 
-- 🌱 I’m currently learning **docker**
-
 - 💬 Ask me about **react, javascript, node, express**
 
 <h3 align="left">Connect with me:</h3>
