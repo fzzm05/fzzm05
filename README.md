@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fzzm05" alt="fzzm05" /></a> </p>
 
-- 🔭 I’m currently working on **TestOverseas**, an AI powered study preparation platform.
+- 🔭 I’m currently working on **TestOverseas**, an AI powered test preparation platform.
 
 - 🌱 I’m currently learning **docker**
 
